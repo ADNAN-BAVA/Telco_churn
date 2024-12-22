@@ -88,6 +88,5 @@ This project would not have been possible without the support of the following r
 ## Contact  
 
 For inquiries or collaboration, please feel free to reach out:  
-- **Email**: yourname@example.com  
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)  
+- **Email**: adnan.bava123@gmail.com   
 ---
